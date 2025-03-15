@@ -3,7 +3,7 @@
 # Name: {Jorge Lucero]
 
 # Add the date here 
-# Date: [03/15/35]
+# Date: [03/12/35]
 
 # Describe what the program does here
 # The program tracks bottles returned each week, calculates the payout, and lets the user enter data for more weeks if they want.
